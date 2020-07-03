@@ -374,6 +374,7 @@ h3:after{
   font-size: x-large;
 }
 
+/*Footer Area*/
 .footer-area{
   background-color: purple;
   text-align: center;
@@ -445,9 +446,12 @@ h3:after{
 		  border-radius:0px;
 		  border:none;
 	  }
-	 .text-overlay-text{
+	.text-overlay-text{
 		  font-size: 14px;
     }
+	br {
+      display: none;
+  	}
   }
 
   @media only screen and (max-width:1094px ){
