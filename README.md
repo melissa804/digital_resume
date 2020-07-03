@@ -1,18 +1,27 @@
-My_Digital_Resume
+# My Digital Resume
+Personal resume of Melissa Ajudia.
 
-This repository is for the folders containing the code that makes up my complete and responsive digital resume. Built to be as simple as possible, while still providing great content using HTML 5, CSS, JavaScript and Bootstrap.
+## Description
+This repository is for the folders containing the html and javascript code that makes up my complete and responsive digital resume. Built to be as simple as possible, while still providing an innovative interface.
 
-#Requirements
-I elected to use Bootstrap as a framework to set up my digital resume 
+## Built with
+* Bootstrap 4
+* Jquery
+* Javascript
+* HTML 5
+* CSS3
 
-Linked the following CDN's:
-    Bootstrap CDN version 3.4.1 
-    Font Awesome version 5.13.1
-    Google Fonts -Font Family Poppins
-    Javascript -jquery version 1.12.1
-                Bootstrap javascript
-    Jquery version 1.12.4
+## Resources via the following CDN's:
+* Bootstrap CDN version 3.4.1 
+* Font Awesome version 5.13.1
+* Google Fonts -Font Family Poppins
+* Javascript -jquery version 1.12.1
+* Jquery version 1.12.4
 
-#Setup
+## IDE used
 
-Created a basic structure folder 
+* Visual Studio Code
+
+## Addition Software
+* Adobe Photoshop for Image Editing
+* Adobe Illustrator for Logo Creation
